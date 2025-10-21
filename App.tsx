@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import type { User, Prediction, PredictionCategory } from './types';
-import { generateAllPredictions, streamChatReply, recordUserDataInSheet } from './services/geminiService';
+import { generateAllPredictions, streamChatReply, recordUserDataInSheet } from './services/geminiService.ts';
 import WelcomeScreen from './components/WelcomeScreen';
 import OnboardingForm from './components/OnboardingForm';
 import Dashboard from './components/Dashboard';
