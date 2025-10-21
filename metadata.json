@@ -1,0 +1,5 @@
+{
+  "name": "DivineAI – Your Personal AI Astrologer",
+  "description": "An astrology-based AI web app that provides personalized predictions based on user birth details. Users can get daily, love, career, health, and finance predictions, and chat with an AI astrologer.",
+  "requestFramePermissions": []
+}
